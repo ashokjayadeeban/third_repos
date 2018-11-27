@@ -1,3 +1,7 @@
-test file for stash 
+test file for stash i
 
 after stash added content 
+adding second line for stash testing
+
+
+sample test without commit
